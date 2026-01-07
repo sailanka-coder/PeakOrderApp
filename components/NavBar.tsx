@@ -12,7 +12,7 @@ export function NavBar() {
     <nav className="w-full border-b bg-white/80 backdrop-blur sticky top-0 z-20">
       <div className="max-w-6xl mx-auto flex items-center justify-between py-3 px-4">
         <div className="flex items-center gap-2">
-          <img src="/logo.png" alt="Macys Inc" className="h-8" />
+          <img src="/Macys&Star.png" alt="Macys Inc" className="h-8" />
           <span className="font-semibold text-lg">
             Guesser Charity Challenge
           </span>
